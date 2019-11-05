@@ -1,0 +1,30 @@
+.article {
+    border: 1px solid black;
+    display: flex;
+    margin-bottom 40px;
+    padding: 20px;
+}
+
+.articel  .image {
+    height: 100px;
+    width: 100px;
+    flex: none;
+    background-color: blueviolet;
+    margin-right: 20px;
+}
+
+.articel .article-text h2 {
+    margin: 0px;
+}
+
+.articel .article-text button {
+    background-color: chocolate
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.articel .articel-text button:haver {
+    background-color: darkblue;
+}

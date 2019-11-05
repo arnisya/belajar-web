@@ -1,0 +1,131 @@
+body {
+    background-color: #E5E5E5;
+}
+
+.container {
+    max-width: 992px;
+    margin: 0 auto;
+}
+
+* {
+    margin-top: 0px;
+}
+
+.article-header .nav {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.article-header .nav ul {
+    background: white;
+    list-style: none;
+    display: inline-table;
+    width: 1440px;
+    height: 97.43px;
+    margin-bottom: 40px;
+
+}
+
+.article-header .nav ul li {
+    float: left;
+}
+
+.article-header .nav ul li a {
+    display: block;
+    padding-top: 35.71px;
+    color: black;
+    text-decoration: none;
+}
+
+.web {
+    padding-left: 121px;
+}
+
+.home {
+    padding-left: 680px;
+}
+
+.blog {
+    padding-left: 50.81px;
+}
+
+.contact {
+    padding-left: 50.81px;
+}
+
+.article-content {
+    margin-bottom: 40px;
+    margin-left: 162.02px;
+    width: 1126.1px;
+    height: 310.57px;
+    left: 162.02px;
+    background: #FFFFFF;
+    border-radius: 30px;
+    display: flex;
+}
+
+.article-content .image {
+    width: 233.41px;
+    height: 233.41px;
+    flex: none;
+    background: #63B082;
+    border-radius: 20px;
+    margin-top: 38.05px;
+    margin-bottom: 39.1;
+    margin-left: 41.77px;
+    margin-right: 52px;
+}
+
+
+
+.article-content .article-text h2 {
+    position: absolute;
+    width: 693.58px;
+    height: 56px;
+    margin-top: 60.05px;
+    margin-left: 52px;
+    margin-bottom: 194.51px;
+    margin-right: 105.33px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.article-content .article-text p {
+    position: absolute;
+    width: 693.58px;
+    height: 56px;
+    margin-top: 133.28px;
+    margin-left: 52px;
+    margin-bottom: 121.28px;
+    margin-right: 105.33px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #797979;
+}
+
+
+.article-content .article-text button {
+    margin-top: 213.65px;
+    margin-bottom: 39.1px;
+    margin-right: 544.78px;
+    margin-left: 52px;
+    background: #8EE5F8;
+    border-radius: 13px;
+    width: 257.51px;
+    height: 57.61px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+}
